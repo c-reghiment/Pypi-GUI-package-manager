@@ -1,0 +1,3 @@
+charset-normalizer
+requests
+urllib3
